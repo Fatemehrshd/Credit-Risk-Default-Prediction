@@ -1,0 +1,1 @@
+End-to-end credit risk classification project to predict repayment issues (default risk) from customer financial and behavioral features. Includes data inspection, targeted EDA, missing-value handling, categorical encoding, baseline models (Logistic Regression / Random Forest), evaluation with ROC-AUC and balanced accuracy, and threshold analysis for selecting an operating point.
